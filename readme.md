@@ -1,7 +1,7 @@
 # IRIS
 
 ## Overview
-IRIS(Intent Revelation and Interaction System) is a browser-based research system that explores intelligent workflow automation through the Belief-Desire-Intention (BDI) model. It aims to facilitate seamless collaboration between users and AI systems by understanding and processing implicit user intentions through a novel approach to intent revelation and interaction.
+IntentPrism is a browser-based research system that explores intelligent workflow automation through the Belief-Desire-Intention (BDI) model. It aims to facilitate seamless collaboration between users and AI systems by understanding and processing implicit user intentions through a novel approach to intent revelation and interaction.
 
 ## Core Features
 
