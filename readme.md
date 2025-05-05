@@ -1,4 +1,5 @@
-# IRIS
+# IntentPrism
+https://dl.acm.org/doi/full/10.1145/3706599.3719744
 
 ## Overview
 IntentPrism is a browser-based research system that explores intelligent workflow automation through the Belief-Desire-Intention (BDI) model. It aims to facilitate seamless collaboration between users and AI systems by understanding and processing implicit user intentions through a novel approach to intent revelation and interaction.
